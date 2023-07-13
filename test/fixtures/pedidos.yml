@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  data: MyString
+  cliente: 1.5
+  produtos: MyString
+  total: 1.5
+
+two:
+  data: MyString
+  cliente: 1.5
+  produtos: MyString
+  total: 1.5
